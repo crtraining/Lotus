@@ -1,3 +1,2 @@
 echo "Hello World"
-doing good
-How are you
+doing good. I deleted a line beliw. Jijo
